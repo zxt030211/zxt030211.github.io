@@ -1,7 +1,7 @@
 const textConfig = {
   text1: "He luu cậu!",
   text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu thấy Trương Tinh Đặc có đáng iu hong?",
+  text3: "Cậu thấy 张星特 có đáng iu hong?",
   text4: "Nếu cậu ko trả lời mà thoát ra tức là Trương Tinh Đặc đáng iu nhất thế giới :>",
   text5: "Đáng iu nhưng cũng đáng đánh",
   text6: "Đáng iu rất nhìu <3",
